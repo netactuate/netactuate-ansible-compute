@@ -1,0 +1,5 @@
+[master]
+localhost ansible_connection=local ansible_python_interpreter=.venv/bin/python3
+
+[nodes]
+#example-LAX-vm1.example.com location=LAX plan='VR1x1x25'
